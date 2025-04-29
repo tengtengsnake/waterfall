@@ -81,7 +81,7 @@ export const themes: Theme[] = [
      ad20,
      ad21,
      ad22,
-     ad23
+     ad23,
     ])
   }
 ]
